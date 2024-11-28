@@ -1,0 +1,2 @@
+# somethingGet
+getinit
